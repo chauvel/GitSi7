@@ -1,1 +1,0 @@
-<?php Bonjour à tous ?>
